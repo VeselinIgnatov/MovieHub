@@ -1,0 +1,12 @@
+D:\Repos\MovieHub\MovieHub.Utilities\bin\Debug\net7.0\MovieHub.Utilities.deps.json
+D:\Repos\MovieHub\MovieHub.Utilities\bin\Debug\net7.0\MovieHub.Utilities.dll
+D:\Repos\MovieHub\MovieHub.Utilities\bin\Debug\net7.0\MovieHub.Utilities.pdb
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\MovieHub.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\MovieHub.Utilities.AssemblyInfoInputs.cache
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\MovieHub.Utilities.AssemblyInfo.cs
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\MovieHub.Utilities.csproj.CoreCompileInputs.cache
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\MovieHub.Utilities.dll
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\refint\MovieHub.Utilities.dll
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\MovieHub.Utilities.pdb
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\ref\MovieHub.Utilities.dll
+D:\Repos\MovieHub\MovieHub.Utilities\obj\Debug\net7.0\MovieHub.Utilities.csproj.AssemblyReference.cache

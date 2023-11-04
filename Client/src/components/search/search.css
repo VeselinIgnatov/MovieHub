@@ -1,0 +1,44 @@
+.search-container {
+    display: flex;
+    width: auto;
+    background-color: white;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+.search-container>.search-field>input {
+    border-radius: 5px 0 0 5px;
+    border: none;
+    padding-right: 5px;
+    height: 40px;
+    width: 400px;
+}
+
+.search-container>.search-field>button {
+    border-radius: 0 5px 5px 0;
+    border: none;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(76, 7, 167);
+}
+
+.search-field {
+    display: flex;
+    flex-direction: row;
+}
+
+.genres-select-list > select {
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(76, 7, 167);
+    color: white;
+}
+
+.search-area{
+    height: 40px;
+}
+select > option {
+    border-radius: 5px;
+    color: rgb(76, 7, 167);
+    background-color: white;
+}

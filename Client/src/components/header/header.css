@@ -1,0 +1,33 @@
+.header-container  {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-items: center;
+    background-color:rgb(76, 7, 167);
+}
+
+.upper-header{
+    display: flex;
+    height: 30px;
+    background-color: inherit;
+    font-size: 12px;
+    justify-content: space-between;
+}
+.buttons {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-button {
+    padding: 10px;
+    background-color: unset;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.navbar-button:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.1);
+}

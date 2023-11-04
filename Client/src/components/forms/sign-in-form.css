@@ -1,0 +1,26 @@
+.sign-in-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+
+input {
+    background: #f2f2f2;
+}
+
+.error {
+    border-style: solid;
+    border: 2px solid #ffa4a4;
+}
+
+button {
+    background: rgb(76, 7, 167);
+    color: white;
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: default;
+}

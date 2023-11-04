@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.pagination-button{
+    height: 40px;
+    width: 60px;
+    color: white;
+    border: none;
+    overflow: hidden;
+}
+.page-count {
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    display: flex;
+}
